@@ -1,0 +1,19 @@
+version: '3.5'
+services:
+  app:
+    container_name: todomvc
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/app'
+      - '/app/node_modules'
+    ports:
+      - '3000:3000'
+    environment:
+      - NODE_ENV=development
+      - CHOKIDAR_USEPOLLING=true
+    stdin_open: true
+    command: npm start
+volumes:
+  mydata:
