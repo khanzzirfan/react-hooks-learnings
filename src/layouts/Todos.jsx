@@ -1,12 +1,17 @@
 import React from 'react';
-// import Footer from '../components/Footer';
+import Paper from '@material-ui/core/Paper';
+import FilterLinks from '../containers/FilterLinks';
 import AddTodo from '../containers/AddTodo';
 import VisibleTodoList from '../containers/VisibleTodoList';
-
+import Divider from '@material-ui/core/Divider';
 const TodoLayout = () => (
   <div>
     <AddTodo />
-    <VisibleTodoList />
+    <Paper elevation={2}>
+      <VisibleTodoList />
+      <Divider />
+      <FilterLinks />
+    </Paper>
   </div>
 );
 
