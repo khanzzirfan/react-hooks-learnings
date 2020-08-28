@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0dd680542ae57b0c81dc979d14331676",
+    "revision": "d0db1d95e956313cb879874bd8bd9e61",
     "url": "/react-hooks-learnings/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-hooks-learnings/static/css/2.e89e737b.chunk.css"
   },
   {
-    "revision": "dc246848f709d57dab5c",
+    "revision": "18bd1dc7d739735f5300",
     "url": "/react-hooks-learnings/static/css/main.405a14fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-hooks-learnings/static/js/2.8f28f691.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc246848f709d57dab5c",
-    "url": "/react-hooks-learnings/static/js/main.bdd5addf.chunk.js"
+    "revision": "18bd1dc7d739735f5300",
+    "url": "/react-hooks-learnings/static/js/main.ec577214.chunk.js"
   },
   {
     "revision": "84c2038c29f9e6a1e2df",
