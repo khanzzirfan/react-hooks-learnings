@@ -6,6 +6,7 @@ import CssBaseline from '@material-ui/core/CssBaseline';
 import logo from './logo.svg';
 import './App.css';
 import TodoLayout from '../layouts/Todos';
+import Modal from '../components/Modal';
 import theme from '../theme';
 
 const HomePage = () => (
@@ -18,6 +19,7 @@ const HomePage = () => (
       <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
         Learn React
       </a>
+      <Modal />
     </header>
   </div>
 );

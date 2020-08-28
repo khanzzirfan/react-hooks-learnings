@@ -1,6 +1,6 @@
 import 'react-app-polyfill/ie9';
-import 'react-app-polyfill/stable';
-import 'core-js';
+import 'core-js/es/set';
+import 'core-js/es/map';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
