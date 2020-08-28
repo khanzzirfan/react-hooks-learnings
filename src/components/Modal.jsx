@@ -38,7 +38,15 @@ class Modal extends React.Component {
         <ReactModal
           style={customStyles}
           isOpen={this.state.showModal}
-          contentLabel="Minimal Modal Example"
+          contentLabel="Minimal Modal Example IPAD"
+          ariaHideApp={
+            true
+            /* Boolean indicating if the appElement should be hidden */
+          }
+          shouldFocusAfterRender={
+            true
+            /* Boolean indicating if the modal should be focused after render. */
+          }
         >
           <button onClick={this.handleCloseModal}>Close Modal</button>
           <div>I am a modal</div>
