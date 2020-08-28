@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6039eea2505f902c76331a912615967",
+    "revision": "cdef660f73092471fd0f7532382190d4",
     "url": "/react-hooks-learnings/index.html"
   },
   {
-    "revision": "eb893e92e8cbcd172c9c",
+    "revision": "36986406470deb2fe97b",
     "url": "/react-hooks-learnings/static/css/2.e89e737b.chunk.css"
   },
   {
-    "revision": "b5cc96a4c16b48ec8a73",
+    "revision": "f1ec6b78d33b733328f5",
     "url": "/react-hooks-learnings/static/css/main.405a14fb.chunk.css"
   },
   {
-    "revision": "eb893e92e8cbcd172c9c",
-    "url": "/react-hooks-learnings/static/js/2.fb913056.chunk.js"
+    "revision": "36986406470deb2fe97b",
+    "url": "/react-hooks-learnings/static/js/2.8f28f691.chunk.js"
   },
   {
     "revision": "b948d2a7727b83687a00ec53ef5267c0",
-    "url": "/react-hooks-learnings/static/js/2.fb913056.chunk.js.LICENSE.txt"
+    "url": "/react-hooks-learnings/static/js/2.8f28f691.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5cc96a4c16b48ec8a73",
-    "url": "/react-hooks-learnings/static/js/main.9bc248de.chunk.js"
+    "revision": "f1ec6b78d33b733328f5",
+    "url": "/react-hooks-learnings/static/js/main.a27d77c4.chunk.js"
   },
   {
     "revision": "84c2038c29f9e6a1e2df",
