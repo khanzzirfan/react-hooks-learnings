@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/khanzzirfan/react-hooks-learnings/static/css/main.405a14fb.chunk.css",
-    "main.js": "/khanzzirfan/react-hooks-learnings/static/js/main.fe1982cd.chunk.js",
-    "main.js.map": "/khanzzirfan/react-hooks-learnings/static/js/main.fe1982cd.chunk.js.map",
-    "runtime-main.js": "/khanzzirfan/react-hooks-learnings/static/js/runtime-main.8b6626ea.js",
-    "runtime-main.js.map": "/khanzzirfan/react-hooks-learnings/static/js/runtime-main.8b6626ea.js.map",
-    "static/css/2.e89e737b.chunk.css": "/khanzzirfan/react-hooks-learnings/static/css/2.e89e737b.chunk.css",
-    "static/js/2.fb913056.chunk.js": "/khanzzirfan/react-hooks-learnings/static/js/2.fb913056.chunk.js",
-    "static/js/2.fb913056.chunk.js.map": "/khanzzirfan/react-hooks-learnings/static/js/2.fb913056.chunk.js.map",
-    "index.html": "/khanzzirfan/react-hooks-learnings/index.html",
-    "precache-manifest.b9d07fe0c3f6729cfaa7e3890c932765.js": "/khanzzirfan/react-hooks-learnings/precache-manifest.b9d07fe0c3f6729cfaa7e3890c932765.js",
-    "service-worker.js": "/khanzzirfan/react-hooks-learnings/service-worker.js",
-    "static/css/2.e89e737b.chunk.css.map": "/khanzzirfan/react-hooks-learnings/static/css/2.e89e737b.chunk.css.map",
-    "static/css/main.405a14fb.chunk.css.map": "/khanzzirfan/react-hooks-learnings/static/css/main.405a14fb.chunk.css.map",
-    "static/js/2.fb913056.chunk.js.LICENSE.txt": "/khanzzirfan/react-hooks-learnings/static/js/2.fb913056.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/khanzzirfan/react-hooks-learnings/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-hooks-learnings/static/css/main.405a14fb.chunk.css",
+    "main.js": "/react-hooks-learnings/static/js/main.9bc248de.chunk.js",
+    "main.js.map": "/react-hooks-learnings/static/js/main.9bc248de.chunk.js.map",
+    "runtime-main.js": "/react-hooks-learnings/static/js/runtime-main.1acdf9bd.js",
+    "runtime-main.js.map": "/react-hooks-learnings/static/js/runtime-main.1acdf9bd.js.map",
+    "static/css/2.e89e737b.chunk.css": "/react-hooks-learnings/static/css/2.e89e737b.chunk.css",
+    "static/js/2.fb913056.chunk.js": "/react-hooks-learnings/static/js/2.fb913056.chunk.js",
+    "static/js/2.fb913056.chunk.js.map": "/react-hooks-learnings/static/js/2.fb913056.chunk.js.map",
+    "index.html": "/react-hooks-learnings/index.html",
+    "precache-manifest.0c7d4a94b9c82ec18aa52399989f54ea.js": "/react-hooks-learnings/precache-manifest.0c7d4a94b9c82ec18aa52399989f54ea.js",
+    "service-worker.js": "/react-hooks-learnings/service-worker.js",
+    "static/css/2.e89e737b.chunk.css.map": "/react-hooks-learnings/static/css/2.e89e737b.chunk.css.map",
+    "static/css/main.405a14fb.chunk.css.map": "/react-hooks-learnings/static/css/main.405a14fb.chunk.css.map",
+    "static/js/2.fb913056.chunk.js.LICENSE.txt": "/react-hooks-learnings/static/js/2.fb913056.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-hooks-learnings/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b6626ea.js",
+    "static/js/runtime-main.1acdf9bd.js",
     "static/css/2.e89e737b.chunk.css",
     "static/js/2.fb913056.chunk.js",
     "static/css/main.405a14fb.chunk.css",
-    "static/js/main.fe1982cd.chunk.js"
+    "static/js/main.9bc248de.chunk.js"
   ]
 }
