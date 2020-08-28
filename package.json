@@ -2,6 +2,8 @@
   "name": "todomvc",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://khanzzirfan.github.io/react-hooks-learnings/",
+  "demo": "https://khanzzirfan.github.io/react-hooks-learnings/",
   "dependencies": {
     "@date-io/moment": "^1.3.13",
     "@material-ui/core": "latest",
@@ -15,6 +17,7 @@
     "connected-react-router": "^6.6.1",
     "core-js": "^3.6.5",
     "eslint-config-airbnb": "^18.1.0",
+    "gh-pages": "^3.1.0",
     "history": "4.7.2",
     "lodash": "^4.17.11",
     "material-ui-next-pickers": "0.0.22",
@@ -37,7 +40,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
