@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-hooks-learnings/static/css/main.405a14fb.chunk.css",
-    "main.js": "/react-hooks-learnings/static/js/main.15a2c7d1.chunk.js",
-    "main.js.map": "/react-hooks-learnings/static/js/main.15a2c7d1.chunk.js.map",
+    "main.js": "/react-hooks-learnings/static/js/main.44599adc.chunk.js",
+    "main.js.map": "/react-hooks-learnings/static/js/main.44599adc.chunk.js.map",
     "runtime-main.js": "/react-hooks-learnings/static/js/runtime-main.1acdf9bd.js",
     "runtime-main.js.map": "/react-hooks-learnings/static/js/runtime-main.1acdf9bd.js.map",
     "static/css/2.e89e737b.chunk.css": "/react-hooks-learnings/static/css/2.e89e737b.chunk.css",
     "static/js/2.cb436884.chunk.js": "/react-hooks-learnings/static/js/2.cb436884.chunk.js",
     "static/js/2.cb436884.chunk.js.map": "/react-hooks-learnings/static/js/2.cb436884.chunk.js.map",
     "index.html": "/react-hooks-learnings/index.html",
-    "precache-manifest.eb05c5c2e4d3011d8cb652c9723b5a47.js": "/react-hooks-learnings/precache-manifest.eb05c5c2e4d3011d8cb652c9723b5a47.js",
+    "precache-manifest.3afeea7a9ab7936542d04aa59ebd5c46.js": "/react-hooks-learnings/precache-manifest.3afeea7a9ab7936542d04aa59ebd5c46.js",
     "service-worker.js": "/react-hooks-learnings/service-worker.js",
     "static/css/2.e89e737b.chunk.css.map": "/react-hooks-learnings/static/css/2.e89e737b.chunk.css.map",
     "static/css/main.405a14fb.chunk.css.map": "/react-hooks-learnings/static/css/main.405a14fb.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.e89e737b.chunk.css",
     "static/js/2.cb436884.chunk.js",
     "static/css/main.405a14fb.chunk.css",
-    "static/js/main.15a2c7d1.chunk.js"
+    "static/js/main.44599adc.chunk.js"
   ]
 }
